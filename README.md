@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java/Spring Boot
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m currently learning Data Engineering/Python
 - 📫 How to reach me: rhirosh@gmail.com
 <div align="center">
   <a href="https://github.com/rafaballerini">
